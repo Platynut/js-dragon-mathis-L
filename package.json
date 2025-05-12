@@ -1,0 +1,17 @@
+{
+  "name": "web-app",
+  "version": "1.0.0",
+  "description": "A web application to fetch data based on latitude, longitude, and metric.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
